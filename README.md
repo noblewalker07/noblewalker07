@@ -1,4 +1,4 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22N_Walker07%22%2C%22name%22%3A%22Noble%20Walker%22%2C%22email%22%3A%22noblewalker07%40gmail.com%22%2C%22linkedin%22%3A%22linkedin.com%2Fin%2Fnoble-walker1027%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22N_Walker07%22%2C%22name%22%3A%22Noble%20Walker%22%2C%22email%22%3A%22noblewalker07%40gmail.com%22%2C%22linkedin%22%3A%22linkedin.com%2Fin%2Fnoble-walker1027%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22Course%20Certificate%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1K1fiQY10BElvS7w6YMSRHuE-LbYd_IH9%2Fview%3Fusp%3Dsharing%22%2C%22status%22%3A%22pending%22%7D%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
@@ -33,7 +33,9 @@
 <details>
 <summary><strong>Course 1: Networking I</strong></summary>
 
-*No labs added yet.*
+| Lab / Project | Description | Status | Link |
+|---|---|---|---|
+| Course Certificate | — | ⏳ Pending | [Open](https://drive.google.com/file/d/1K1fiQY10BElvS7w6YMSRHuE-LbYd_IH9/view?usp=sharing) |
 
 </details>
 
